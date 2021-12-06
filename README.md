@@ -1,4 +1,4 @@
-# shPublicRepo
+# github-test-public
 
 build & run 할때 필요한 command 입니다.
 
